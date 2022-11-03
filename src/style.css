@@ -1,0 +1,21 @@
+#container {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+div {
+    color: white;
+    background-color:#343434;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+button {
+    cursor: pointer;
+    border:none;
+    padding: 12px;
+    border-radius: 10px;
+}
